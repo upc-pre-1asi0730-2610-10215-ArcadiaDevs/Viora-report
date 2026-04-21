@@ -35,7 +35,7 @@ La investigación aplicada también sustenta incorporar un rastreador de frío y
 \end{figure}
 
 
-**Plagas, vigilancia fitosanitaria y riesgos regulatorios** La presión sanitaria constituye un riesgo productivo y regulatorio. SENASA informó acciones inmediatas y declaración de emergencia fitosanitaria ante Xylella fastidiosa, con medidas de vigilancia y contención (SENASA, 2024). Posteriormente, la Resolución Directoral que declara bajo control oficial Xylella fastidiosa subsp. pauca sustenta la dimensión del riesgo y la necesidad de intervención temprana: se reportan casos positivos en el país y se advierte impacto potencial de disminución productiva “hasta 25 %–30 %” en zonas vulnerables, así como pérdidas económicas potenciales superiores a US$ 3,245 millones anuales considerando varios cultivos (SENASA, 2025).
+**Plagas, vigilancia fitosanitaria y riesgos regulatorios** La presión sanitaria constituye un riesgo productivo y regulatorio. SENASA informó acciones inmediatas y declaración de emergencia fitosanitaria ante Xylella fastidiosa, con medidas de vigilancia y contención (SENASA, 2024). Posteriormente, la Resolución Directoral que declara bajo control oficial Xylella fastidiosa subsp. pauca sustenta la dimensión del riesgo y la necesidad de intervención temprana: se reportan casos positivos en el país y se advierte impacto potencial de disminución productiva “hasta 25 % –30 %” en zonas vulnerables, así como pérdidas económicas potenciales superiores a US$ 3,245 millones anuales considerando varios cultivos (SENASA, 2025).
 
 \begin{figure}[H]
 \caption{Declaran bajo control oficial la plaga Xylella fastidiosa subsp. pauca, a nivel nacional.}
