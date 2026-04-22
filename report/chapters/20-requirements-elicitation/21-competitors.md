@@ -83,3 +83,155 @@ Análisis competitivo para competidores **indirectos**
 <!-- Test markdown + latex -->
 
 \newpage
+
+### Matriz F.O.D.A y C.A.M.E.
+
+\definecolor{fodaDark}{RGB}{47,84,63}
+\definecolor{fodaLight}{RGB}{183,198,190}
+\definecolor{fodaWhite}{RGB}{245,245,245}
+
+\setlength{\tabcolsep}{8pt}
+\renewcommand{\arraystretch}{1.35}
+
+\noindent
+\begin{tabular}{|p{4.2cm}|p{5.3cm}|p{5.3cm}|}
+\hline
+\cellcolor{fodaDark}
+\begin{minipage}[t][16cm][c]{\linewidth}
+\centering
+\vspace{1.2cm}
+{\color{white}\bfseries\LARGE Matriz\\[0.15cm]F.O.D.A.\\y\\C.A.M.E.}
+
+\vspace{1.3cm}
+
+\includegraphics[width=2.2cm]{report/assets/viora-brand/viora-isologotipo-white.png}
+\end{minipage}
+&
+\cellcolor{fodaLight}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Oportunidades (O)}
+
+\vspace{0.35cm}
+\raggedright
+\textbullet\ Creciente urgencia por mitigar mermas asociadas al fenómeno ENOS y a la variabilidad climática en el cultivo de olivo (Calvo et al., 2024; Agencia Andina, 2024).\\[0.28cm]
+\textbullet\ Lentitud y enfoque reactivo de las alertas estatales frente a eventos climáticos y sanitarios, lo que abre espacio para soluciones preventivas más ágiles (Yglesias-González et al., 2023; Servicio Nacional de Sanidad Agraria del Perú, 2024).\\[0.28cm]
+\textbullet\ Potencial de alianzas con cooperativas y actores olivareros locales, dada la necesidad de fortalecer la resiliencia productiva y la gestión técnica del cultivo en Tacna (MIDAGRI, 2025).\\[0.28cm]
+\textbullet\ Competidores globales relativamente inaccesibles para pequeños productores debido a los requerimientos de analítica avanzada, teledetección e infraestructura tecnológica especializada (Pino et al., 2026; Osco-Mamani et al., 2025).
+\end{minipage}
+&
+\cellcolor{fodaLight}
+\begin{minipage}[t][18cm][t]{\linewidth}
+\centering
+{\bfseries\Large Amenazas (A)}
+
+\vspace{0.35cm}
+\raggedright
+\textbullet\ Resistencia tecnológica y brecha digital en la agricultura familiar (MIDAGRI, 2025).\\[0.28cm]
+\textbullet\ Limitada conectividad a internet y restricciones operativas en fundos rurales, lo que puede afectar el uso continuo de soluciones digitales en campo (Casanova Núñez-Melgar, 2022).\\[0.28cm]
+\textbullet\ Competidores consolidados como Xarvio o Agroptima con mayor capacidad de inversión, expansión e integración tecnológica en mercados agrícolas digitalizados (Ministerio de Desarrollo Agrario y Riego, 2025).\\[0.28cm]
+\textbullet\ Anomalías climáticas impredecibles que desestabilicen algoritmos (Pino y Ascencios, 2022; Calvo et al., 2024).
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\newpage
+
+\noindent
+\begin{tabular}{|p{4.2cm}|p{5.3cm}|p{5.3cm}|}
+\hline
+\cellcolor{fodaLight}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Fortalezas (F)}
+
+\vspace{0.35cm}
+\raggedright
+\textbullet\ Hiper-especialización en fenología del olivo (vecería, horas de frío).\\[0.28cm]
+\textbullet\ Marketplace integrado (conecta la alerta con el agrónomo).\\[0.28cm]
+\textbullet\ Modelo SaaS predictivo, ágil y de bajo costo (sin hardware).\\[0.28cm]
+\textbullet\ Alertas micro-locales específicas por parcela.
+\end{minipage}
+&
+\cellcolor{fodaWhite}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Estrategia Ofensiva}
+
+\vspace{0.35cm}
+\raggedright
+\textbf{FO1 – Paquetes "Cooperativa Preventiva":} Usar el bajo costo del modelo SaaS (F3) para cerrar convenios B2B masivos con cooperativas olivareras (O3) que urgen mitigar el ENOS (O1).\\[0.55cm]
+
+\textbf{FO2 – Alerta Temprana Ágil:} Aprovechar la lentitud del Estado (O2) emitiendo notificaciones predictivas por parcela (F4), ofreciendo la inmediatez que el agricultor no encuentra en canales públicos.\\[0.55cm]
+
+\textbf{FO3 – Marketplace de Intervención:} Posicionar nuestra red de especialistas (F2) como el "brazo ejecutor" que soluciona inmediatamente las alertas que competidores globales solo reportan de forma pasiva (O4).
+\end{minipage}
+&
+\cellcolor{fodaWhite}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Estrategia Defensiva}
+
+\vspace{0.35cm}
+\raggedright
+\textbf{FA1 – Valor Humano vs. Algoritmo:} Defender nuestro nicho frente a gigantes AgTech (A3) destacando la conexión directa con agrónomos locales reales (F2), algo que el software extranjero no puede replicar.\\[0.55cm]
+
+\textbf{FA2 – App Resiliente y Ligera:} Frente a la baja conectividad (A2), asegurar que el dashboard y las alertas (F4) funcionen con caché offline y notificaciones ultraligeras (SMS/WhatsApp push).\\[0.55cm]
+
+\textbf{FA3 – Especialización Endémica:} Frente al cambio climático impredecible (A4), usar nuestra hiper-especialización en el olivo (F1) para calibrar modelos mucho más rápido que las plataformas generalistas.
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\newpage
+
+\noindent
+\begin{tabular}{|p{4.2cm}|p{5.3cm}|p{5.3cm}|}
+\hline
+\cellcolor{fodaLight}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Debilidades (D)}
+
+\vspace{0.35cm}
+\raggedright
+\textbullet\ Baja confianza inicial por ser una marca/startup nueva.\\[0.28cm]
+\textbullet\ Carencia de data histórica climática propia (uso de APIs).\\[0.28cm]
+\textbullet\ Requiere atraer productores y agrónomos a la vez.\\[0.28cm]
+\textbullet\ Presupuesto de marketing y desarrollo limitado.
+\end{minipage}
+&
+\cellcolor{fodaWhite}
+\begin{minipage}[t][16cm][t]{\linewidth}
+\centering
+{\bfseries\Large Estrategia de Reorientación}
+
+\vspace{0.35cm}
+\raggedright
+\textbf{DO1 – Pilotos de Validación Local:} Vencer la baja confianza (D1) aliándonos con líderes de juntas de usuarios en Tacna (O3) para hacer pilotos gratuitos que generen "casos de éxito" rápidos y reales.\\[0.55cm]
+
+\textbf{DO2 – Data Colaborativa:} Ante la falta de data histórica propia (D2), aprovechar la urgencia del agricultor por digitalizarse (O1) para retroalimentar nuestros propios algoritmos climáticos según el comportamiento real reportado en la app.\\[0.55cm]
+
+\textbf{DO3 – Growth Loop de Especialistas:} Usar a los agrónomos (que buscan clientes) como nuestros principales evangelizadores, recomendando Viora a sus propios agricultores de confianza, resolviendo así la falta de adopción dual (D3).
+\end{minipage}
+&
+\cellcolor{fodaWhite}
+\begin{minipage}[t][18cm][t]{\linewidth}
+\centering
+{\bfseries\Large Estrategia de Supervivencia}
+
+\vspace{0.35cm}
+\raggedright
+\textbf{DA1 – Foco Láser Olivarero:} Dada la limitación financiera (D4) y la amenaza de gigantes (A3), no expandir la app a otros cultivos; dominar absoluta y exclusivamente la región sur olivarera antes de pensar en escalar.\\[0.55cm]
+
+\textbf{DA2 – Onboarding Asistido:} Para combatir la resistencia tecnológica (A1) y nuestra falta de reconocimiento (D1), realizar talleres presenciales en campo con las cooperativas para instalar y configurar la app en los celulares de los usuarios.\\[0.55cm]
+
+\textbf{DA3 – Protocolos "Fallback":} Ante fallos en la predicción por anomalías extremas (A4), asegurar que el sistema derive inmediatamente el caso al directorio de agrónomos locales (Marketplace) para evaluación humana (minimizando la D2).
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\newpage
