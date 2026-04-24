@@ -35,7 +35,7 @@ La organización de la información en Viora intercala esquemas lógicos diseña
 \caption*{\textit{Nota.} Interacciones sistémicas en la plataforma operativa. Elaboración propia.}
 \end{figure}
 
-- **Taxonomía y Sitemaps:** En las siguientes figuras se muestra la manera en la que clasificamos el contenido y cómo este se distribuye a lo largo de las distintas pantallas y módulos, tanto a nivel corporativo (Landing Page) como aplicativo (Web App).
+- **Taxonomía y Sitemaps:** En las siguientes figuras se muestra la manera en la que clasificamos el contenido y cómo este se distribuye a lo largo de las distintas pantallas y módulos, tanto a nivel corporativo (Landing Page) como de la aplicación (Web App).
 
 \begin{figure}[H]
 \caption{Taxonomía de la Landing Page de Viora.}
@@ -106,7 +106,7 @@ El sistema de navegación garantiza la orientación constante del usuario y la f
 
 Navegación Global: Se centraliza en una Navbar para la Landing Page y una Sidebar para la Web App. Estos elementos permiten el acceso permanente a los módulos principales desde cualquier nivel de la plataforma.
 
-Navegación Local y Contextual: Se emplean Tabs para organizar métricas específicas (clima y vigor vegetal) en una sola vista. Además, se integran enlaces contextuales que guían al usuario a través de la Choreography de conversión y registro.
+Navegación Local y Contextual: Se emplean Tabs para organizar métricas específicas en una sola vista. Además, se integran enlaces contextuales que guían al usuario a través de la Choreography de conversión y registro.
 
 Sistemas de Orientación: Se utilizan Breadcrumbs y botones de retroceso claros. Esto permite que el usuario identifique su ubicación jerárquica y pueda retornar a estados anteriores sin perder el progreso de su trabajo
 
