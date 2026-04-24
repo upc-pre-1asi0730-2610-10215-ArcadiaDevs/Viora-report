@@ -18,42 +18,6 @@ El sistema de etiquetado de Viora se basa en la claridad semántica y la adaptac
 La organización de la información en Viora intercala esquemas lógicos diseñados para estructurar y presentar los datos evitando la confusión técnica.
 
 - **Estructura Jerárquica y Modular:** El ecosistema de la Web App está orientado a un esquema Hub & Spoke adaptado, donde los Dashboards fungen como ejes principales de información general que derivan hacia flujos de trabajo específicos (como el Panel de Intervención).
-- **Taxonomía y Sitemaps:** En las siguientes figuras se muestra la manera en la que clasificamos el contenido y cómo este se distribuye a lo largo de las distintas pantallas y módulos, tanto a nivel corporativo (Landing Page) como aplicativo (Web App).
-
-\begin{figure}[H]
-\caption{Taxonomía de la Landing Page de Viora.}
-\centering
-\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/landingpage-taxonomy.png}
-\caption\*{\textit{Nota.} Clasificación de contenidos informativos públicos. Elaboración propia.}
-\end{figure}
-
-\begin{figure}[H]
-\caption{Sitemap de la Landing Page de Viora.}
-\centering
-\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/landingpage-taxonomy-sitemap.png}
-\caption\*{\textit{Nota.} Estructura de navegación jerárquica del sitio público. Elaboración propia.}
-\end{figure}
-
-\begin{figure}[H]
-\caption{Taxonomía de la Web App de Viora - Parte 1.}
-\centering
-\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-taxonomy-1.png}
-\caption\*{\textit{Nota.} Esquema de contenidos para la aplicación privada. Elaboración propia.}
-\end{figure}
-
-\begin{figure}[H]
-\caption{Taxonomía de la Web App de Viora - Parte 2.}
-\centering
-\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-taxonomy-2.png}
-\caption\*{\textit{Nota.} Continuación del esquema de contenidos. Elaboración propia.}
-\end{figure}
-
-\begin{figure}[H]
-\caption{Sitemap de la Web App de Viora.}
-\centering
-\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-taxonomy-sitemap.png}
-\caption\*{\textit{Nota.} Distribución de pantallas y módulos funcionales. Elaboración propia.}
-\end{figure}
 
 - **Ontología:** Representación en red sobre las interconexiones cognitivas entre las entidades fundamentales de nuestro dominio. Las siguientes visualizaciones expresan cómo los conceptos interactúan mutuamente en la experiencia de Viora.
 
@@ -61,14 +25,44 @@ La organización de la información en Viora intercala esquemas lógicos diseña
 \caption{Ontología de la Landing Page.}
 \centering
 \includegraphics[width=0.8\textwidth]{report/assets/information-architecture/landingpage-ontology.png}
-\caption\*{\textit{Nota.} Relaciones conceptuales entre los elementos clave de la oferta de valor al público. Elaboración propia.}
+\caption*{\textit{Nota.} Relaciones conceptuales entre los elementos clave de la oferta de valor al público. Elaboración propia.}
 \end{figure}
 
 \begin{figure}[H]
 \caption{Ontología de la Web App.}
 \centering
 \includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-ontology.png}
-\caption\*{\textit{Nota.} Interacciones sistémicas en la plataforma operativa. Elaboración propia.}
+\caption*{\textit{Nota.} Interacciones sistémicas en la plataforma operativa. Elaboración propia.}
+\end{figure}
+
+- **Taxonomía y Sitemaps:** En las siguientes figuras se muestra la manera en la que clasificamos el contenido y cómo este se distribuye a lo largo de las distintas pantallas y módulos, tanto a nivel corporativo (Landing Page) como aplicativo (Web App).
+
+\begin{figure}[H]
+\caption{Taxonomía de la Landing Page de Viora.}
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/landingpage-taxonomy.png}
+\caption*{\textit{Nota.} Clasificación de contenidos informativos públicos. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+\caption{Sitemap de la Landing Page de Viora.}
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/landingpage-taxonomy-sitemap.png}
+\caption*{\textit{Nota.} Estructura de navegación jerárquica del sitio público. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+\caption{Taxonomía de la Web App de Viora - Parte 1.}
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-taxonomy-1.png}
+\caption*{\textit{Nota.} Esquema de contenidos para la aplicación privada. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+\caption{Taxonomía de la Web App de Viora - Parte 2.}
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/information-architecture/app-web-taxonomy-2.png}
+\caption*{\textit{Nota.} Continuación del esquema de contenidos. Elaboración propia.}
 \end{figure}
 
 - **Visitor Choreography:** Para asegurar una conversión eficiente, modelamos los flujos de recorrido (choreography) de los visitantes durante su paso por la Landing Page, asegurando la integración fluida con los embudos de registro.
@@ -77,14 +71,14 @@ La organización de la información en Viora intercala esquemas lógicos diseña
 \caption{Leyenda de la Visitor Choreography.}
 \centering
 \includegraphics[width=0.4\textwidth]{report/assets/information-architecture/landing-page-visitor-choreograpy-legend.png}
-\caption\*{\textit{Nota.} Simbología utilizada para las interacciones. Elaboración propia.}
+\caption*{\textit{Nota.} Simbología utilizada para las interacciones. Elaboración propia.}
 \end{figure}
 
 \begin{figure}[H]
 \caption{Visitor Choreography de la Landing Page.}
 \centering
 \includegraphics[width=0.9\textwidth]{report/assets/information-architecture/landing-page-visitor-choreograpy.png}
-\caption\*{\textit{Nota.} Flujo de embudo de conversión y decisión del usuario visitante en Viora. Elaboración propia.}
+\caption*{\textit{Nota.} Flujo de embudo de conversión y decisión del usuario visitante en Viora. Elaboración propia.}
 \end{figure}
 
 ### SEO Tags and Meta Tags
