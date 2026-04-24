@@ -1,4 +1,6 @@
-## Web Applications Wireframes
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
 
 \begin{figure}[H]
 \caption{Wireframe de la aplicación.}
