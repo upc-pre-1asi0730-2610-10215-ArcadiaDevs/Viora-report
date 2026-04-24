@@ -204,3 +204,19 @@
 
 Para el diseño y conceptualización de los wireframes de la aplicación Viora, se implementó un enfoque metodológico centrado en el usuario que integra rigurosamente los fundamentos de experiencia (UX) e interfaz de usuario (UI). En primer lugar, la propuesta se sustenta en la aplicación de principios y elementos de diseño visual, como la jerarquía, el contraste, el equilibrio y el uso estratégico del espacio en blanco, para construir pantallas limpias y funcionales. Asimismo, el desarrollo de las interfaces incorpora pautas fundamentales de diseño inclusivo, asegurando la accesibilidad a través de tipografías de alta legibilidad, áreas de interacción (botones) dimensionadas correctamente y un contraste visual óptimo que atiende a la diversidad de los usuarios. Finalmente, la disposición de los elementos y los flujos de interacción se rigen por una sólida arquitectura de la información, categorizando y estructurando el contenido de forma lógica para reducir la carga cognitiva y garantizar una navegación intuitiva en toda la aplicación, utilizando para ello las herramientas de prototipado recomendadas.
 
+\newpage
+
+### Web Applications Wireflow Diagrams
+
+
+
+
+
+\newpage
+
+### Web Applications Wireflow Diagrams
+
+
+
+### Web Applications Mock-ups
+
