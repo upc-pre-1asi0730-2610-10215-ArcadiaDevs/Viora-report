@@ -13,8 +13,9 @@ endif
 PDF_FRONT = report/front-matter/00-cover-pandoc.md \
             report/front-matter/01-version-register.md \
             report/front-matter/02-collaboration-insights.md \
-            report/front-matter/03-student-outcome.md \
-            report/front-matter/04-toc.md
+			report/front-matter/03-contenido.md \
+            report/front-matter/04-student-outcome.md 
+            
 
 
 CHAPTERS = $(sort $(wildcard report/chapters/*/*.md))
