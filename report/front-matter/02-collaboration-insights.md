@@ -12,7 +12,7 @@
 ## Estadísticas de colaboración {-}
 
 \begin{center}
-\includegraphics[width=0.96\textwidth]{report/assets/collabotation-stats/stats-1.png}
+\includegraphics[width=0.96\textwidth]{report/assets/collaboration-stats/stats-1.png}
 \end{center}
 
 \begin{center}
