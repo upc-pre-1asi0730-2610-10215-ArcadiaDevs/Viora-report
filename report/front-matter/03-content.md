@@ -2,53 +2,41 @@
 
 ## Tabla de contenidos {-}
 
-[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Student outcome](#student-outcome)
 
-[Project Report Collaboration Insights](#project-report-collaboration-insights)
+1. [Introducción](#introducción)
+   - [1.1 Startup Profile](#startup-profile)
+   - [1.2 Perfil de la solución](#perfil-de-la-solución)
+   - [1.3 Segmentos objetivo](#segmentos-objetivo)
 
-[Contenido](#contenido)
+2. [Elicitación y Análisis de Requisitos](#elicitación-y-análisis-de-requisitos)
+   - [2.1 Competitors](#competidores)
+   - [2.2 Interviews](#entrevistas)
+   - [2.3 Needfinding](#needfinding)
 
-[Student outcome](#student-outcome)
+3. [Especificación de Requisitos](#especificación-de-requisitos)
+   - [3.1 User Stories](#historias-de-usuario)
+   - [3.2 Impact Mapping](#impact-mapping)
+   - [3.3 Product Backlog](#product-backlog)
 
-[1. Introducción](#introducción)
-	[1.1 Startup Profile]()
-	  - Descripción de la Startup
-	  - Perfiles de integrantes del equipo
-	- 12. Solution Profile
-	  - Antecedentes y problemática
-	  - Segmentos objetivo
-	- 13. Target Segments
+4. [Diseño del Producto](#diseño-del-producto)
+   - [4.1 Lineamientos generales de estilo](#lineamientos-generales-de-estilo)
+   - [4.2 Lineamientos de estilo web](#lineamientos-de-estilo-web)
+   - [4.3 Arquitectura de la información](#arquitectura-de-la-información)
+   - [4.4 Diseño de la landing page](#diseño-de-la-landing-page)
+   - [4.5 UX/UI para aplicaciones web](#ux-ui-para-aplicaciones-web)
+   - [4.6 Arquitectura de software orientada al dominio](#arquitectura-de-software-orientada-al-dominio)
+   - [4.7 Diseño orientado a objetos](#diseño-orientado-a-objetos)
+   - [4.8 Diseño de bases de datos](#diseño-de-bases-de-datos)
 
-1. Chapter II: Requirements Elicitation & Analysis
-	- 21. Competitors
-	- 22. Interviews
-	- 23. Needfinding
-	  - User Personas
-	  - User Task Matrix
+5. [Implementación, Validación y Despliegue](#implementación-validación-y-despliegue)
+   - [5.1 Gestión de la configuración del software](#gestión-de-la-configuración-del-software)
 
-2. Chapter III: Requirements Specification
-	- 31. User Stories
-	- 32. Impact Mapping
-	- 33. Product Backlog
-
-3. Chapter IV: Product Design
-	- 41. General Style Guidelines
-	- 42. Web Style Guidelines
-	- 43. Information Architecture
-	- 44. Landing Page UI Design
-	- 45. Web Applications UX/UI Design
-	- 46. Domain-Driven Software Architecture
-	  - Design-Level EventStorming
-	- 47. Software Object-Oriented Design
-	- 48. Database Design
-
-4. Chapter V: Product Implementation, Validation & Deployment
-	- 51. Software Configuration Management
-
-[Conclusiones](#conclusiones)
-
-[Bibliografía](#bibliografía)
-
-[Anexos](#anexos)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 \clearpage
