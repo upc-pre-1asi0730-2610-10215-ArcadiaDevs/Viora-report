@@ -1,7 +1,7 @@
 \newpage
 # Capítulo II: Requirements Elicitation & Analysis
 
-## Competidores.
+## Competidores
 
 | Tipo | Competidor | Descripción | Características | Website |
 |---|---|---|---|---|

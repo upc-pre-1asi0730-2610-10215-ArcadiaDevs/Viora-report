@@ -1,4 +1,4 @@
-## Segmentos objetivo.
+## Segmentos objetivo
 
 **Viora** orienta su propuesta de valor a dos macro-segmentos fundamentales dentro del ecosistema olivarero del sur del Perú, los cuales interactúan de manera simbiótica para sostener y proteger la cadena productiva y fitosanitaria.
 
