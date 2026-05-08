@@ -16,19 +16,19 @@
 \end{center}
 
 \begin{center}
-\includegraphics[width=0.96\textwidth]{report/assets/collabotation-stats/stats-2.png}
+\includegraphics[width=0.96\textwidth]{report/assets/collaboration-stats/stats-2.png}
 \end{center}
 
 \begin{center}
-\includegraphics[width=0.96\textwidth]{report/assets/collabotation-stats/stats-3.png}
+\includegraphics[width=0.96\textwidth]{report/assets/collaboration-stats/stats-3.png}
 \end{center}
 
 \begin{center}
-\includegraphics[width=0.96\textwidth]{report/assets/collabotation-stats/stats-4.png}
+\includegraphics[width=0.96\textwidth]{report/assets/collaboration-stats/stats-4.png}
 \end{center}
 
 \begin{center}
-\includegraphics[width=0.96\textwidth]{report/assets/collabotation-stats/stats-5.png}
+\includegraphics[width=0.96\textwidth]{report/assets/collaboration-stats/stats-5.png}
 \end{center}
 
 \clearpage
