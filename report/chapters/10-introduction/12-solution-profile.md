@@ -253,7 +253,7 @@ Creemos que la mayor amenaza de producto será la baja adopción tecnológica, p
 
 - **Creemos que lograremos** que el 20% de usuarios activos aplique medidas preventivas. **Si** los productores y técnicos especializados **logran** traducir señales ambientales en acciones de manejo concretas **con** las recomendaciones de nutrición y control basadas en guías regionales.
 
-- **Creemos que lograremos** que el 70% de nuevos suscriptores configure su umbral de riesgo en 7 días. **Si** los nuevos usuarios del sistema **logran** reducir la fricción inicial y acceder rápidamente a la utilidad del servicio **con** el panel de suscripción y el flujo de incorporación guiada.
+- **Creemos que lograremos** que el 70% de nuevos suscriptores configure su umbral de riesgo en 7 días. **Si** los productores olivareros y especialistas **logran** reducir la fricción inicial y acceder rápidamente a la utilidad del servicio **con** el panel de suscripción y el flujo de incorporación guiada.
 
 
 #### Lean UX Canvas
