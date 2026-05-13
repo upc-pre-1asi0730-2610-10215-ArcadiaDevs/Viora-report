@@ -87,5 +87,125 @@ A continuación, se presenta la matriz de control de versiones, la cual detalla 
 | feature/remain-logic | ac3dedf | feat: add script module. | 13/05/2026 |
 | release/1.0.0 | 09416dd | docs: update readme. | 13/05/2026 |
 
-&nbsp;
+#### Execution Evidence for Sprint Review
 
+El Sprint 1 ha concluido con éxito, logrando establecer la base digital estratégica del ecosistema Viora. Durante este periodo, el equipo se centró en materializar una Landing Page que no solo sirve como carta de presentación institucional, sino como una herramienta de conversión diseñada específicamente para productores y especialistas del sector olivarero.
+
+**Logros Principales**
+
+- Arquitectura y Navegación: Se implementó una estructura de navegación robusta y responsive, garantizando una experiencia de usuario fluida tanto en dispositivos móviles como de escritorio a través de un encabezado dinámico y un pie de página funcional.
+- Experiencia Inmersiva (Hero Section): Se desarrolló una sección de impacto inicial que utiliza efectos de paralaje y sonido ambiental, diseñada para captar la atención inmediata del visitante y comunicar la conexión emocional entre la tecnología y el campo.
+- Propuesta de Valor Segmentada: Cumpliendo con el Sprint Goal, se integraron secciones específicas de beneficios para "Growers" (Productores) y "Specialists" (Especialistas), permitiendo una comunicación personalizada según el perfil del usuario.
+- Contexto y Solución: Se estructuraron módulos de "Contexto del Problema" y "Solución", utilizando tarjetas informativas y secciones introductorias que validan los desafíos climáticos actuales y presentan a Viora como la respuesta técnica necesaria.
+- Credibilidad y Conversión: Se consolidó la confianza mediante la sección de equipo ("About the Team") y testimonios ("Learning from the Best"). Asimismo, se habilitaron los flujos de conversión mediante componentes de precios (pricing panels) y un formulario de contacto funcional.
+- Internacionalización (i18n): Se desplegó un servicio de idiomas completo para asegurar que la plataforma sea accesible a un mercado global desde su lanzamiento inicial
+
+
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 1.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_1.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 2.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_2.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 3.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_3.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 4.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_4.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 5.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_5.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 6.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_6.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 7.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_7.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 8.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_8.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\begin{figure}[H]
+    \caption{Landing page - Parte 9.}
+    \centering
+    \includegraphics[width=0.8\textwidth]{report/assets/sprint-1/landing_9.png}
+    \caption*{\textit{Nota.} Visualización correspondiente del sprint 1. Elaboración propia.}
+\end{figure}
+
+\textbf{Enlace al video:} \url{https://tinyurl.com/viora-sprint1}
+
+
+
+#### Services Documentation Evidence for Sprint Review
+
+
+
+#### Software Deployment Evidence for Sprint Review
+
+Durante el transcurso del Sprint 1, el equipo estableció la infraestructura base y los flujos de automatización necesarios para garantizar que la Landing Page, los Web Services y las Web Applications de Viora operen bajo un esquema de integración y despliegue continuo. El enfoque principal fue eliminar la fricción entre el desarrollo local y el entorno de producción, asegurando que cada incremento de software sea validado y desplegado de forma eficiente.
+
+**Evidencia de Implementación de Despliegue**
+A continuación, se presentan los pasos realizados y las capturas que validan el correcto funcionamiento del pipeline de despliegue:
+
+1. Configuración del Proyecto y Repositorio
+Se realizó la vinculación del repositorio oficial Viora-website con el proveedor cloud, definiendo los parámetros de construcción y las variables de entorno necesarias para el funcionamiento de la Landing Page.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/sprint-1/img-3.jpeg}
+\caption{Configuración inicial e importación del proyecto Viora-website.}
+\caption*{\textit{Nota.} Vinculación del repositorio de GitHub con el entorno de despliegue. Elaboración propia.}
+\end{figure}
+
+2. Automatización y Éxito de Compilación
+Una vez detectado el código, el sistema ejecutó las tareas de build y optimización de activos, resultando en un despliegue exitoso hacia los servidores de producción.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/sprint-1/img-1.jpeg}
+\caption{Confirmación de despliegue exitoso del nuevo proyecto.}
+\caption*{\textit{Nota.} Interfaz de confirmación tras la finalización del proceso de compilación. Elaboración propia.}
+\end{figure}
+
+3. Verificación de Disponibilidad y Estado del Servicio
+Finalmente, se accedió al panel de control para confirmar que la aplicación se encuentra en estado "Ready". Se validaron los dominios viora-website-flax.vercel.app para su acceso público inmediato.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/sprint-1/img-2.jpeg}
+\caption{Panel de control de producción (Production Deployment).}
+\caption*{\textit{Nota.} Vista detallada del estado del despliegue. Elaboración propia.}
+\end{figure}
