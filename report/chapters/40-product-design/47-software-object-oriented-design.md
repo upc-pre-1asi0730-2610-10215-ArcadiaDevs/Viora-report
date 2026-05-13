@@ -12,7 +12,7 @@ A continuación se presentan los diagramas de clases en formato PlantUML para lo
 
 En esta sección se detallan las clases principales del backend, separados en los componentes definidos en el diagrama de arquitectura C4. Para reflejar adecuadamente la arquitectura backend, se incluyen Entidades, Interfaces, Transfer Objects (DTOs), Servicios y Controladores.
 
-##### Core: Repository & External Integrations Components
+##### Core: Repository y External Integrations Components
 
 Este diagrama incluye la capa de persistencia base (Entity Framework Core) y los adaptadores para los servicios externos como AgroMonitoring, MercadoPago, y Mapbox.
 
@@ -23,7 +23,7 @@ Este diagrama incluye la capa de persistencia base (Entity Framework Core) y los
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Repository y External Integrations Components. Elaboración propia.}
 \end{figure}
 
-##### IAM & Profile Components
+##### IAM y Profile Components
 
 Maneja el registro, la autenticación mediante JWT (JSON Web Tokens) y la gestión de los perfiles de Productores y Especialistas.
 
@@ -34,7 +34,7 @@ Maneja el registro, la autenticación mediante JWT (JSON Web Tokens) y la gesti�
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente IAM y Profile Components. Elaboración propia.}
 \end{figure}
 
-##### Plot Management & Agrometeorological Monitoring
+##### Plot Management y Agrometeorological Monitoring
 
 Subsistema principal de datos geolocalizados para las parcelas y sincronización de índices de vegetación o clima.
 
@@ -45,7 +45,7 @@ Subsistema principal de datos geolocalizados para las parcelas y sincronización
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Plot Management y Agrometeorological Monitoring. Elaboración propia.}
 \end{figure}
 
-##### Prediction, Risk Engine & Alerts Components
+##### Prediction, Risk Engine y Alerts Components
 
 Procesamiento del análisis predictivo de amenazas a los cultivos (fenológicas o estrés) y emisión de notificaciones.
 
@@ -67,7 +67,7 @@ Gestión de la vigilancia fitosanitaria, reporte de síntomas, validación de br
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Epidemiological Surveillance Component. Elaboración propia.}
 \end{figure}
 
-##### Marketplace & Intervention Component
+##### Marketplace y Intervention Component
 
 Módulo para enlazar Productores de Olivo con Especialistas a través de solicitudes de evaluación técnica.
 
@@ -78,7 +78,7 @@ Módulo para enlazar Productores de Olivo con Especialistas a través de solicit
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Marketplace y Intervention Component. Elaboración propia.}
 \end{figure}
 
-##### Subscription & Billing Component
+##### Subscription y Billing Component
 
 Lógica de pasarelas de pago y asignación de privilegios de suscripción.
 
@@ -89,7 +89,7 @@ Lógica de pasarelas de pago y asignación de privilegios de suscripción.
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Subscription y Billing Component. Elaboración propia.}
 \end{figure}
 
-##### Moderation & Strikes Component
+##### Moderation y Strikes Component
 
 Administración de bloqueos y penalizaciones en la plataforma para mantener los términos de la comunidad de especialistas e intervencionistas limpios.
 
@@ -104,7 +104,7 @@ Administración de bloqueos y penalizaciones en la plataforma para mantener los 
 
 En esta sección se detalla la estructura orientada a objetos de la aplicación web desarrollada en Vue.js y manejada por Pinia, dividida en los distintos contenedores identificados en la arquitectura C4. Se ha separado en módulos Core (Compartidos) y Funcionales para una mayor claridad.
 
-##### Core: Shared UI & API Client Services
+##### Core: Shared UI y API Client Services
 
 Este diagrama incluye los servicios transversales de conexión con el backend mediante Axios y los componentes base reutilizables.
 
@@ -115,7 +115,7 @@ Este diagrama incluye los servicios transversales de conexión con el backend me
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Core: Shared UI y API Client Services. Elaboración propia.}
 \end{figure}
 
-##### Routing & Guards Component
+##### Routing y Guards Component
 
 Gestiona el enrutamiento y la protección de vistas del lado del cliente.
 
@@ -170,7 +170,7 @@ Módulo principal de productores de olivo para gestión de parcelas y visualizac
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Plot Management UI Component. Elaboración propia.}
 \end{figure}
 
-##### Marketplace & Intervention UI Component
+##### Marketplace y Intervention UI Component
 
 Relaciona solicitudes y ofertas de servicios entre productores de olivo y especialistas agrícolas.
 
@@ -192,7 +192,7 @@ Maneja los avisos urgentes (clima, pagos asíncronos y alertas sanitarias).
     \caption*{\textit{Nota.} Diagrama de clases correspondiente al componente Notification Center Component. Elaboración propia.}
 \end{figure}
 
-##### Subscription & Billing UI Component
+##### Subscription y Billing UI Component
 
 Permite revisar contratos, suscripciones SAAS e historial de pagos.
 
