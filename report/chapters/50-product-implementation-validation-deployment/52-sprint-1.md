@@ -47,7 +47,13 @@ El objetivo principal de este Sprint es establecer la presencia digital estraté
 
 #### Deployment Evidence for Sprint Review
 
-| Branch | Commit Id | Commit Message Body | Commited on (Date) |
+Durante la primera iteración, el principal avance de implementación se centró en la construcción integral de la Landing Page oficial de Viora. Se logró codificar e integrar con éxito la interfaz de usuario, la lógica de navegación responsiva, la segmentación de la propuesta de valor y los módulos de conversión (CTAs).
+
+Para garantizar la centralización, trazabilidad y correcta auditoría del código fuente, todas las contribuciones técnicas de este incremento fueron registradas e integradas bajo el usuario organizacional (upc-pre-1asi0730-2610-10215-ArcadiaDevs). Además, en ningún commit se colocó el "Commit Message Body", por lo que en esta tabla no aparecerá esa columna.
+
+A continuación, se presenta la matriz de control de versiones, la cual detalla el historial cronológico de commits realizados en el repositorio del proyecto.
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
 | :--- | :--- | :--- | :--- |
 |   feature/main-navigation       | cfcf95e     | feat(header): add template and styles for header, and responsive.                        | 13/05/2026            |
 |   feature/main-navigation         | 0973f67     | feat(header): add script for header.                                                     | 13/05/2026            |
@@ -80,8 +86,6 @@ El objetivo principal de este Sprint es establecer la presencia digital estraté
 | feature/remain-logic | b5f0e3e | fix: update general styles and landing button styles. | 13/05/2026 |
 | feature/remain-logic | ac3dedf | feat: add script module. | 13/05/2026 |
 | release/1.0.0 | 09416dd | docs: update readme. | 13/05/2026 |
-
-&nbsp;
 
 &nbsp;
 
