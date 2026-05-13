@@ -85,7 +85,7 @@ El objetivo principal de este Sprint es establecer la presencia digital estraté
 
 &nbsp;
 
-#### Development Evidence for Sprint Review
+#### Execution Evidence for Sprint Review
 
 El Sprint 1 ha concluido con éxito, logrando establecer la base digital estratégica del ecosistema Viora. Durante este periodo, el equipo se centró en materializar una Landing Page que no solo sirve como carta de presentación institucional, sino como una herramienta de conversión diseñada específicamente para productores y especialistas del sector olivarero.
 
