@@ -171,7 +171,7 @@ El Sprint 1 ha concluido con éxito, logrando establecer la base digital estrat�
 
 #### Services Documentation Evidence for Sprint Review
 
-
+Durante el Sprint 1, no se ha incluido documentación de Web Services debido a que el alcance del incremento se ha centrado exclusivamente en la construcción de la Landing Page oficial y la configuración de la presencia digital de Viora. La implementación de los servicios web y su correspondiente documentación bajo el estándar OpenAPI están programados para etapas posteriores del proyecto, por lo que el enfoque actual reside en la comunicación de la propuesta de valor y la captación de usuarios.
 
 #### Software Deployment Evidence for Sprint Review
 
@@ -209,3 +209,16 @@ Finalmente, se accedió al panel de control para confirmar que la aplicación se
 \caption{Panel de control de producción (Production Deployment).}
 \caption*{\textit{Nota.} Vista detallada del estado del despliegue. Elaboración propia.}
 \end{figure}
+
+#### Team Collaboration Insights for Sprint Review
+
+La participación de los miembros del equipo se refleja en el volumen y la frecuencia de las contribuciones realizadas al repositorio. Durante este primer incremento, el esfuerzo se concentró en establecer la estructura base, el diseño visual y la interactividad de la plataforma. Como se observa en los analíticos de GitHub, el equipo mantuvo una actividad constante para cumplir con las historias de usuario comprometidas.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{report/assets/sprint-1/sprint-1-commit.png}
+\caption{Estadísticas de contribución (Top Committers) - Sprint 1.}
+\caption*{\textit{Nota.} La gráfica muestra la distribución de commits realizados por los miembros del equipo en el repositorio oficial. Elaboración propia a través de GitHub Insights.}
+\end{figure}
+
+Este nivel de interacción garantiza que el producto final no sea el resultado de esfuerzos aislados, sino de una implementación integrada donde cada componente de la Landing Page fue validado colectivamente.
