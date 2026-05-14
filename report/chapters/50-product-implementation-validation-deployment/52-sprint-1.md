@@ -171,7 +171,7 @@ El Sprint 1 ha concluido con éxito, logrando establecer la base digital estrat�
 
 #### Services Documentation Evidence for Sprint Review
 
-
+Durante el Sprint 1, no se ha incluido documentación de Web Services debido a que el alcance del incremento se ha centrado exclusivamente en la construcción de la Landing Page oficial y la configuración de la presencia digital de Viora. La implementación de los servicios web y su correspondiente documentación bajo el estándar OpenAPI están programados para etapas posteriores del proyecto, por lo que el enfoque actual reside en la comunicación de la propuesta de valor y la captación de usuarios.
 
 #### Software Deployment Evidence for Sprint Review
 
